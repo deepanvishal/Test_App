@@ -1,2 +1,4 @@
 # Test_App
-Test the app in a 
+Test this end to end app
+1. Create Virtual environment & activate it
+2. 
